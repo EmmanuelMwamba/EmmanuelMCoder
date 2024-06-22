@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EmmanuelMCoder
+- 👋 Hi, I’m @EmmanuelMwamba
 - 👀 I’m interested in software engineering 
 - 🌱 I’m currently learning how to code(backend development & frontend development) full stack development 
-- 💞️ I’m looking to collaborate on innovative projects 
-- 📫 How to reach me on LinkedIn username is Emmanuel Mwamba 
+- 💞️ I’m looking forward to collaborate on innovative projects 
+- 📫 How to reach. Try reach me on LinkedIn & Facebook username is: Emmanuel Mwamba 
 - 😄 Pronouns: He
 
 
